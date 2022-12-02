@@ -1,0 +1,50 @@
+{
+body {
+  background-color: #db0030;
+  
+}
+
+p {
+  background-color: rgb(41, 173, 173);
+  max-width: fit-content;
+  border-radius: 8px;
+}
+
+a {
+  color: aqua;
+}
+
+.Index {
+  background-color: blue;
+  width: 16rem;
+  padding: 2.5px;
+  border-radius: 8px;
+}
+
+figcaption {
+  background-color: blue;
+  width: fit-content;
+  color: aliceblue;
+  border-radius: 8px;
+}
+
+ul,
+ol {
+  background-color: #550516ce;
+  width: fit-content;
+  padding: 1.5rem;
+  color: antiquewhite;
+  border
+  border-radius: 8px;
+  
+}
+
+table,
+th,
+td {
+  border: 3px solid brown;
+}
+
+#MessiPic{
+    border-radius: 6px;
+}}
